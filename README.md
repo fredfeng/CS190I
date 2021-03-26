@@ -2,7 +2,7 @@
 
 The goal of this course is to give an introduction to program synthesis, a new field at the intersection of programming languages, software engineering, and AI. The course will explore a number of fundamental questions around the problem of how to automatically discover programs that do what the user expects. In particular, we will explore program synthesis in the context of attack synthesis for smart contracts, as well as program-by-example for data visualization and data wrangling.
 
-The workloads include 2~3 programming assignments, 4~5 paper reviews, and a poster session for the final project.
+The workloads include 3 programming assignments, 4 paper reviews, and a poster session for the final project.
 
 # Office hour
 Instructor : Yu Feng (yufeng@UCSBCS)
