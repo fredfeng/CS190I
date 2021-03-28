@@ -13,7 +13,7 @@ Class: M,Wed, 9:15am, Zoom
 
 Instructor's office hour: Fri, 9am-10am
 
-TA's office hour: TBD
+TA's office hour: Mon, 4pm-5pm, Zoom, or by Appointment
 
 Slack: https://join.slack.com/t/cs190i-spring21/shared_invite/zt-nw9earis-ot5icSlSAUGOqUewDV8lzg
 
