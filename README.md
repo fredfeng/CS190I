@@ -57,7 +57,7 @@ Slack: https://join.slack.com/t/cs190i-spring21/shared_invite/zt-nw9earis-ot5icS
     4. Final report: 15%
 
 
-Below is a grading system used by CS162 (No curving).
+Below is a grading system used by CS190I (No curving).
 
 | Letter | Percentage |
 |--------|------------|
