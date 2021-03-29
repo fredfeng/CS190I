@@ -55,6 +55,23 @@ Slack: https://join.slack.com/t/cs190i-spring21/shared_invite/zt-nw9earis-ot5icS
     2. 1-page project proposal: 15%
     3. Project presentation: 15%
     4. Final report: 15%
+
+
+Below is a grading system used by CS162 (No curving).
+
+| Letter | Percentage |
+|--------|------------|
+| A+     | 95–100%    |
+| A      | 90–94%     |
+| A-     | 85–89%     |
+| B+     | 80–84%     |
+| B      | 75–79%     |
+| B-     | 70–74%     |
+| C+     | 65–69%     |
+| C      | 60–64%     |
+| F      | <60%       |
+
+Credit: https://en.wikipedia.org/wiki/Academic_grading_in_the_United_States
   
 
 ### Submission
