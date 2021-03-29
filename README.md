@@ -21,9 +21,9 @@ Slack: https://join.slack.com/t/cs190i-spring21/shared_invite/zt-nw9earis-ot5icS
 | Date  | Topic                                         | Slides | Read | Out | Due |
 |-------|-----------------------------------------------|--------|------|-----|-----|
 | 3/29  | Welcome & Course Overview                                  |  [lec1](lectures/lecture1.pdf)      |      |     |     |
-| 3/31  | Solver-Aided Synthesis I (Rosette)                                  |  [lec2](lectures/lecture1.pdf)      |      |     |     |
-| 4/5  | Solver-Aided Synthesis I (Neo)          |  [lec3](lectures/lecture2.pdf)      |  R1    |  HW1   |     |
-| 4/7  | Introduction to SMT and CFG             |  [lec4](lectures/lecture3.pdf)      |  R2    |     |     |
+| 3/31  | Solver-Aided Synthesis I (Rosette)                                  |  [lec2](#)      |      |     |     |
+| 4/5  | Solver-Aided Synthesis I (Neo)          |  [lec3](#)      |  R1    |  HW1   |     |
+| 4/7  | Introduction to SMT and CFG             |  [lec4](#)      |  R2    |     |     |
 | 4/12  | Introduction to Inductive Synthesis               |  [lec5](#)     |      |     | R1    |
 | 4/14 | Inductive Synthesis with Sketch                           |  [lec6](#)      |      |     |     |
 | 4/19 | Inductive Synthesis with Stochastic Search                           |  [lec7](#)      |      |     |     |
