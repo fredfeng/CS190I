@@ -50,13 +50,12 @@ Slack: https://join.slack.com/t/cs190i-spring21/shared_invite/zt-nw9earis-ot5icS
 2. Paper reviews: 20%
     1. 4 papers, 5% each
         
-3. Final project: 45%
+3. Final project: 50%
     1. Team formed by deadline: 5%
-    2. 1-page project proposal: 10%
+    2. 1-page project proposal: 15%
     3. Project presentation: 15%
     4. Final report: 15%
   
-4. Class Participation: 5%
 
 ### Submission
 1. Please submit your homework to gradescope: https://www.gradescope.com
