@@ -97,7 +97,7 @@ Tips for writing paper [reviews](REVIEW.md).
 
 Tips for writing a project [proposal](PROPOSAL.md).
 
-# Presentation list
+# References
 
 - Rondon, Patrick M., Ming Kawaguci, and Ranjit Jhala. "Liquid types." PLDI'2008.
 
