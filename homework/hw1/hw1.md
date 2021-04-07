@@ -1,6 +1,6 @@
 # Homework Assignment 1
 
-**Due Monday, April 26, 2021 at 11:59pm (Pacific Time)**
+**Due Monday, April 19, 2021 at 11:59pm (Pacific Time)**
 
 In this homework assignment, you will use Trinity to build a toy program synthesizer for string manipulations. You will be learning the basic usage of Trinity as well as its design philosophy. Using Trinity, you will be able to create your own customized program synthesizer for various domains in a much concise and easier way.
 
