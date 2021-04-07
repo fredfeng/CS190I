@@ -1,0 +1,28 @@
+enum RawDelimiter {
+    "_", "-", "*", ".", " ", ""
+}
+enum RawToken {
+    "a", "b", "c", "A", "B", "C"
+}
+enum RawInt {
+    "0", "1", "2", "3", "-1", "-2", "-3"
+}
+
+value Empty;
+value Str;
+value Int;
+value List;
+
+program Toy(Str) -> Str;
+func empty: Empty -> Empty;
+
+func get_delimiter: Str -> RawDelimiter;
+func get_token: Str -> RawToken;
+func get_int: Int -> RawInt;
+
+func concat: Str -> Str, Str;
+func substr: Str -> Str, Int, Int;
+func reverse: Str -> Str;
+func sort: Str -> Str;
+func tolower: Str -> Str;
+func toupper: Str -> Str;
