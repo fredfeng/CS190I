@@ -23,7 +23,7 @@ Slack: https://join.slack.com/t/cs190i-spring21/shared_invite/zt-nw9earis-ot5icS
 | 3/29  | Welcome & Course Overview                                  |  [lec1](lectures/lecture1.pdf)      |      |     |     |
 | 3/31  | Solver-Aided Synthesis I (Rosette)                                  |  [lec2](#)      |      |     |     |
 | 4/5  | Solver-Aided Synthesis I (Neo)          |  [lec3](#)      |  R1    |     |     |
-| 4/7  | Introduction to SMT and CFG             |  [lec4](#)      |  R2    | [HW1](https://github.com/fredfeng/CS190I/homework/hw1/hw1.md) |     |
+| 4/7  | Introduction to SMT and CFG             |  [lec4](#)      |  R2    | [HW1](homework/hw1/hw1.md) |     |
 | 4/12  | Introduction to Inductive Synthesis               |  [lec5](#)     |      |     | R1    |
 | 4/14 | Inductive Synthesis with Sketch                           |  [lec6](#)      |      |     |     |
 | 4/19 | Inductive Synthesis with Stochastic Search                           |  [lec7](#)      |      |     |     |
@@ -81,7 +81,7 @@ Credit: https://en.wikipedia.org/wiki/Academic_grading_in_the_United_States
 
 # Homework
 
-1. [Homework1](https://github.com/fredfeng/CS190I/homework/hw1/hw1.md)
+1. [Homework1](homework/hw1/hw1.md)
 2. [Homework2](#)
 3. [Homework3](#)
 

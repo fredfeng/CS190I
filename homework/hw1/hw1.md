@@ -69,11 +69,11 @@ where `Str`, `List`, and `Int` correspond to the string, list and integer types 
 
 To set up your own synthesizer, you will need 3 basic components: DSL definition (spec), language interpreter and the main synthesis loop.
 
-It's super easy to write the DSL definition, because I've done that for you already 🙂! Simply download the DSL definition files `simplestring1.tyrell` (for Problem1) and `simplestring2.tyrell` (for Problem2) from  [here](https://github.com/fredfeng/CS190I/homework/hw1/) and place them to the `example/` folder.
+It's super easy to write the DSL definition, because I've done that for you already 🙂! Simply download the DSL definition files `simplestring1.tyrell` (for Problem1) and `simplestring2.tyrell` (for Problem2) from  [here](https://github.com/fredfeng/CS190I/blob/main/homework/hw1/) and place them to the `example/` folder.
 
 > 🤠: Instead of downloading the provided file, could you come up with your own one (by observing the existing example DSLs from the `example/` folder)?
 
-Also, you need the interpreters and main synthesis loops, which can be downloaded [here](https://github.com/fredfeng/CS190I/homework/hw1/). To start the homework, you need to place it to the repo root folder. Note that currently both the interpreter and synthesis loop are missing some critical parts (marked with holes `??` and commented with "TBD"), and your job is to finish those missing parts.
+Also, you need the interpreters and main synthesis loops, which can be downloaded [here](https://github.com/fredfeng/CS190I/blob/main/homework/hw1/). To start the homework, you need to place it to the repo root folder. Note that currently both the interpreter and synthesis loop are missing some critical parts (marked with holes `??` and commented with "TBD"), and your job is to finish those missing parts.
 
 ## Problem 1 (60%)
 
