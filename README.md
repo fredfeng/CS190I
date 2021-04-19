@@ -24,9 +24,9 @@ Slack: https://join.slack.com/t/cs190i-spring21/shared_invite/zt-nw9earis-ot5icS
 | 3/31  | Solver-Aided Synthesis I (Rosette)                                  |  [lec2](lectures/lecture2.pdf)      |      |     |     |
 | 4/5  | Solver-Aided Synthesis I (Neo)          |  [lec3](lectures/lecture3.pdf)      |  R1    |     |     |
 | 4/7  | Introduction to SMT and CFG             |  [lec4](lectures/lecture4.pdf)      |     | [HW1](homework/hw1/hw1.md) |     |
-| 4/12  | Introduction to Inductive Synthesis               |  [lec5](#)     |   R2   |     | R1    |
-| 4/14 | Enumerative Synthesis                           |  [lec6](#)      |      |   |     |
-| 4/19 | Component-based Synthesis                           |  [lec7](#)      |      |   [HW2]    |  HW1   |
+| 4/12  | Introduction to Inductive Synthesis               |  [lec5](lectures/lecture5.pdf)     |   R2   |     | R1    |
+| 4/14 | Enumerative Synthesis                           |  [lec6](lectures/lecture6.pdf)      |      |   |     |
+| 4/19 | Component-based Synthesis                           |  [lec7](lectures/lecture7.pdf)      |      |   [HW2]    |  HW1   |
 | 4/21 | Type-directed Synthesis                         |  [lec8](#)      |  R3    |     |  R2   |
 | 4/26 | Inductive Synthesis with Stochastic Search                        |  [lec9](#)      |      |     | |
 | 4/28 | Speed-up Synthesis with Abstract Semantics          | [lec10](#)        |      |    |  R3, HW2   |
