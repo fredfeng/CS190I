@@ -26,9 +26,9 @@ Slack: https://join.slack.com/t/cs190i-spring21/shared_invite/zt-nw9earis-ot5icS
 | 4/7  | Introduction to SMT and CFG             |  [lec4](lectures/lecture4.pdf)      |     | [HW1](homework/hw1/hw1.md) |     |
 | 4/12  | Introduction to Inductive Synthesis               |  [lec5](#)     |   R2   |     | R1    |
 | 4/14 | Enumerative Synthesis                           |  [lec6](#)      |      |   |     |
-| 4/19 | Inductive Synthesis with Stochastic Search                           |  [lec7](#)      |      |   [HW2]    |  HW1   |
-| 4/21 | Component-based Synthesis                     |  [lec8](#)      |  R3    |     |  R2   |
-| 4/26 | Type-directed Synthesis                           |  [lec9](#)      |      |     | |
+| 4/19 | Component-based Synthesis                           |  [lec7](#)      |      |   [HW2]    |  HW1   |
+| 4/21 | Type-directed Synthesis                         |  [lec8](#)      |  R3    |     |  R2   |
+| 4/26 | Inductive Synthesis with Stochastic Search                        |  [lec9](#)      |      |     | |
 | 4/28 | Speed-up Synthesis with Abstract Semantics          | [lec10](#)        |      |    |  R3, HW2   |
 | 5/3 | Synthesis by Examples (PBE)           | [lec11](#)        |      |    |    |
 | 5/5 | Synthesis by Natural Language (PBNL)   |  [lec12](#)       |      |     |     |
