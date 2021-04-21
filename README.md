@@ -28,11 +28,11 @@ Slack: https://join.slack.com/t/cs190i-spring21/shared_invite/zt-nw9earis-ot5icS
 | 4/14 | Enumerative Synthesis                           |  [lec6](lectures/lecture6.pdf)      |      |   |     |
 | 4/19 | Component-based Synthesis                           |  [lec7](lectures/lecture7.pdf)      |      |       |  HW1   |
 | 4/21 | Speed-up Synthesis with Abstract Semantics                         |  [lec8](#)      |  R3    | [HW2](homework/hw2/hw2.md) |  R2   |
-| 4/26 | Inductive Synthesis with Stochastic Search                        |  [lec9](#)      |      |     | |
+| 4/26 | Inductive Synthesis with Stochastic Search                        |  [lec9](#)      |  Proposal    |     | |
 | 4/28 | Type-directed Synthesis          | [lec10](#)        |      |    |  R3   |
 | 5/3 | Synthesis by Examples (PBE)           | [lec11](#)        |      |    | HW2 |
-| 5/5 | Synthesis by Natural Language (PBNL)   |  [lec12](#)       |      |     |     |
-| 5/10 | Neural Guided Synthesis                       |  [lec13](#)       |  R4    |     |  Proposal (2 pages)   |
+| 5/5 | Synthesis by Natural Language (PBNL)   |  [lec12](#)       |      |     |   Proposal (2 pages)  |
+| 5/10 | Neural Guided Synthesis                       |  [lec13](#)       |  R4    |     |     |
 | 5/12  | Multi-model Program Synthesis  | [lec14](#)        |      |     |     |
 | 5/17  | Case I: Attack Synthesis for Smart Contracts |        |      |     |     |
 | 5/19  | Case II: Visualization Synthesis |        |      |     |     |
