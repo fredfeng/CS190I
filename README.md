@@ -26,11 +26,11 @@ Slack: https://join.slack.com/t/cs190i-spring21/shared_invite/zt-nw9earis-ot5icS
 | 4/7  | Introduction to SMT and CFG             |  [lec4](lectures/lecture4.pdf)      |     | [HW1](homework/hw1/hw1.md) |     |
 | 4/12  | Introduction to Inductive Synthesis               |  [lec5](lectures/lecture5.pdf)     |   R2   |     | R1    |
 | 4/14 | Enumerative Synthesis                           |  [lec6](lectures/lecture6.pdf)      |      |   |     |
-| 4/19 | Component-based Synthesis                           |  [lec7](lectures/lecture7.pdf)      |      |   [HW2]    |  HW1   |
-| 4/21 | Type-directed Synthesis                         |  [lec8](#)      |  R3    |     |  R2   |
+| 4/19 | Component-based Synthesis                           |  [lec7](lectures/lecture7.pdf)      |      |       |  HW1   |
+| 4/21 | Type-directed Synthesis                         |  [lec8](#)      |  R3    | [HW2](homework/hw2/hw2.md) |  R2   |
 | 4/26 | Inductive Synthesis with Stochastic Search                        |  [lec9](#)      |      |     | |
-| 4/28 | Speed-up Synthesis with Abstract Semantics          | [lec10](#)        |      |    |  R3, HW2   |
-| 5/3 | Synthesis by Examples (PBE)           | [lec11](#)        |      |    |    |
+| 4/28 | Speed-up Synthesis with Abstract Semantics          | [lec10](#)        |      |    |  R3   |
+| 5/3 | Synthesis by Examples (PBE)           | [lec11](#)        |      |    | HW2 |
 | 5/5 | Synthesis by Natural Language (PBNL)   |  [lec12](#)       |      |     |     |
 | 5/10 | Neural Guided Synthesis                       |  [lec13](#)       |  R4    |     |  Proposal (2 pages)   |
 | 5/12  | Multi-model Program Synthesis  | [lec14](#)        |      |     |     |
@@ -82,7 +82,7 @@ Credit: https://en.wikipedia.org/wiki/Academic_grading_in_the_United_States
 # Homework
 
 1. [Homework1](homework/hw1/hw1.md)
-2. [Homework2](#)
+2. [Homework2](homework/hw2/hw2.md)
 3. [Homework3](#)
 
 
