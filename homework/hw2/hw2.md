@@ -49,7 +49,7 @@ Version: 0.7.3+commit.9bfce1f6.Darwin.appleclang
 
 **<u>*(Please follow the instructions below instead of the guide from the Venti repo; that guide is meant for development)*</u>**
 
-Venti requires Racket 7.x, Rosette 3.x and Python 3.x.
+Venti requires Racket 7.x, Rosette 3.x, Python 3.x and Antlr Python Target 4.8.
 
 It should be relatively easy for you to get a Python 3.x. If you still feel confused, consider setting up an Anaconda environment. See: [https://www.anaconda.com/products/individual](https://www.anaconda.com/products/individual). 
 
@@ -74,6 +74,14 @@ And then install it from the source directly:
 raco pkg remove rosette
 raco pkg install
 ```
+
+For Antlr Python Target 4.8, follow the instructions [here](https://github.com/antlr/antlr4/blob/master/doc/python-target.md), or if you have `pip` set up, issue:
+
+```bash
+pip install antlr4-python3-runtime==4.8
+```
+
+**<u>*Note that you need to install version 4.8; other Antlr versions may cause unexpected exceptions for the tool's parser.*</u>**
 
 Then the environment for Venti should be ready.
 
