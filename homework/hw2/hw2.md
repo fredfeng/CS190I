@@ -15,7 +15,7 @@ In this homework, you only need to submit the following files:
 - `task1-1.txt` required by Problem 1, Task 1-1
 - `task1-2.txt` required by Problem 1, Task 1-2
 - `task2-1.txt` required by Problem 2, Task 2-1
-- `P2-config.json` required by Problem 2, Task 2-2
+- `P2A.sol` and `P2B.sol` required by Problem 2, Task 2-2
 - `task2-3.json` or `task2-3.txt` required by Problem 2, Task 2-3
 
 Note: This homework does require sometime to understand the background knowledge, but should be relatively straightforward to finish the tasks if you are clear about the mechanism of the environment and the tasks. If you happened to struggle a lot more than expected, it could be my problem on stating the questions, and please don't hesitate to reach out to us about your confusions, via Slack, office hours or emails.
@@ -215,11 +215,17 @@ Read the smart contracts `P2A.sol` and `P2B.sol`, and **<u>*briefly*</u>** expla
 
 #### Task 2-2 (20%)
 
-According to your manual analysis of the smart contracts from task 2-1 and understanding of the usage of `P1-config.json`, add additional task(s) to `P2-config.json` so that the verification tasks can capture the parts that are not equivalent of the two contracts, and output `#f` for that task. Submit the upated version of `P2-config.json`.
+According to your manual analysis of the smart contracts from task 2-1 and understanding of the usage of `P1-config.json`, modify the `observe` functions of `P2A.sol` and `P2B.sol` so that verification using `P2-config.json` returns `#f`. Note that the `observe` function should satisfy the following:
+
+- `observe` functions of the new `P2A.sol` and `P2B.sol` should be the same;
+- `observe` function should not modify any variables of the contract;
+- `observe` function takes no argument.
+
+Submit the upated version of `P2A.sol` and `P2B.sol`.
 
 #### Task 2-3 (20%)
 
-By default, Solidity initialize an integer to `0` if no initial value is given. If you include `constructor` function in any of your task definitions, can you still design `P2-config.json` to derive a `#f` result for some task to reveal the inequivalence of the two smart contracts? If yes, provide that new configuration file (and name it as `task2-3.json`); if no, **<u>*briefly*</u>** write down the reason in a file called `task2-3.txt`.
+By default, Solidity initializes an integer to `0` if no initial value is given. If you are required to include `constructor` function in all of your task definitions, can you still design `P2-config.json` to derive a `#f` result for some task to reveal the inequivalence of the two smart contracts? If yes, provide that new configuration file (and name it as `task2-3.json`); if no, **<u>*briefly*</u>** write down the reason in a file called `task2-3.txt`. Note that this task still uses the **<u>*original*</u>** version of `P2A.sol` and `P2B.sol`.
 
 ## 🤠 Problem 3 (0%): Write Your Own Client
 
