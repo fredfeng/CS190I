@@ -27,10 +27,10 @@ Slack: https://join.slack.com/t/cs190i-spring21/shared_invite/zt-nw9earis-ot5icS
 | 4/12  | Introduction to Inductive Synthesis               |  [lec5](lectures/lecture5.pdf)     |   R2   |     | R1    |
 | 4/14 | Enumerative Synthesis                           |  [lec6](lectures/lecture6.pdf)      |      |   |     |
 | 4/19 | Component-based Synthesis                           |  [lec7](lectures/lecture7.pdf)      |      |       |  HW1   |
-| 4/21 | Speed-up Synthesis with Abstract Semantics                         |  [lec8](#)      |  R3    | [HW2](homework/hw2/hw2.md) |  R2   |
-| 4/26 |  Synthesis with Deep Learning                        |  [lec9](#)      |  Proposal    |     | |
-| 4/28 | Multi-model Program Synthesis          | [lec10](#)        |      |    |  R3   |
-| 5/3 | Inductive Synthesis with Stochastic Search           | [lec11](#)        |      |    | HW2 |
+| 4/21 | Speed-up Synthesis with Abstract Semantics                         |  [lec8](lectures/lecture8.pdf)      |  R3    | [HW2](homework/hw2/hw2.md) |  R2   |
+| 4/26 |  Synthesis with Deep Learning                        |  [lec9](lectures/lecture9.pdf)      |  Proposal    |     | |
+| 4/28 | Multi-model Program Synthesis          | [lec10](lectures/lecture10.pdf)        |      |    |  R3   |
+| 5/3 | Inductive Synthesis with Stochastic Search           | [lec11](lectures/lecture11.pdf)        |      |    | HW2 |
 | 5/5 | Counter-example Guided Synthesis   |  [lec12](#)       |      |     |   Proposal (2 pages)  |
 | 5/10 | TBD                       |  [lec13](#)       |  R4    |     |     |
 | 5/12  | TBD  | [lec14](#)        |      |     |     |
