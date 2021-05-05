@@ -31,11 +31,11 @@ Slack: https://join.slack.com/t/cs190i-spring21/shared_invite/zt-nw9earis-ot5icS
 | 4/26 |  Synthesis with Deep Learning                        |  [lec9](lectures/lecture9.pdf)      |  Proposal    |     | |
 | 4/28 | Multi-model Program Synthesis          | [lec10](lectures/lecture10.pdf)        |      |    |  R3   |
 | 5/3 | Inductive Synthesis with Stochastic Search           | [lec11](lectures/lecture11.pdf)        |      |    | HW2 |
-| 5/5 | Counter-example Guided Synthesis   |  [lec12](#)       |      |     |   Proposal (2 pages)  |
-| 5/10 | TBD                       |  [lec13](#)       |  R4    |     |     |
-| 5/12  | TBD  | [lec14](#)        |      |     |     |
-| 5/17  | Case I: Attack Synthesis for Smart Contracts |        |      |     |     |
-| 5/19  | Case II: Visualization Synthesis |        |      |     |     |
+| 5/5 | Case I: Visualization Synthesis   |  [lec12](#)       |      |     |   Proposal (2 pages)  |
+| 5/10 | Case II: Attack Synthesis for Smart Contracts                       |  [lec13](#)       |  R4    |     |     |
+| 5/12  | Counter-example Guided Synthesis  | [lec14](#)        |      |     |     |
+| 5/17  | Synthesis with Refinement Types |        |      |     |     |
+| 5/19  | Deductive Synthesis |        |      |     |     |
 | 5/24 | Guest Lecture                        |         |       | [HW3]    |   R4  |
 | 5/26 | Virtual Poster Session                |        |      |     |     |
 | 5/31 | Memorial Day        |         |      |     |    |
