@@ -33,11 +33,11 @@ Slack: https://join.slack.com/t/cs190i-spring21/shared_invite/zt-nw9earis-ot5icS
 | 5/3 | Inductive Synthesis with Stochastic Search           | [lec11](lectures/lecture11.pdf)        |      |    | HW2 |
 | 5/5 | Case I: Visualization Synthesis   |  [lec12](lectures/lecture12.pdf)       |      |     |   Proposal (2 pages)  |
 | 5/10 | Case II: Attack Synthesis for Smart Contracts                       |  [lec13](lectures/lecture13.pdf)       |  R4    |     |     |
-| 5/12  | Counter-example Guided Synthesis  | [lec14](#)        |      |     |     |
+| 5/12  | Counter-example Guided Synthesis  | [lec14](#)        |      | [HW3](homework/hw3/hw3.md) |     |
 | 5/17  | Synthesis with Refinement Types |        |      |     |     |
 | 5/19  | Deductive Synthesis |        |      |     |     |
-| 5/24 | Guest Lecture                        |         |       | [HW3]    |   R4  |
-| 5/26 | Virtual Poster Session                |        |      |     |     |
+| 5/24 | Guest Lecture                        |         |       |     |   R4  |
+| 5/26 | Virtual Poster Session                |        |      |     | HW3 |
 | 5/31 | Memorial Day        |         |      |     |    |
 | 6/2  | Final week, no class                                 |        |      |     |  Final Report (8 pages)  |
 
@@ -83,7 +83,7 @@ Credit: https://en.wikipedia.org/wiki/Academic_grading_in_the_United_States
 
 1. [Homework1](homework/hw1/hw1.md)
 2. [Homework2](homework/hw2/hw2.md)
-3. [Homework3](#)
+3. [Homework3](homework/hw3/hw3.md)
 
 
 # Reading assignments
