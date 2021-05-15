@@ -67,7 +67,7 @@ Before running the Morpheus client, we have to make sure we have the R environme
 For setting up the R environment, you can follow [this guide](https://www.datacamp.com/community/tutorials/installing-R-windows-mac-ubuntu). Note that we only need the R runtime, while the RStudio mentioned in the guide is optional for this homework (but it gives you a better interactive shell for writing/debugging in R and data visualization). After you verify you have successfully configured the R environment, install the `tidyr` and `dplyr` packages via the following commands in R environment:
 
 ```R
-install.packages(c("dplyr","tidyr"))
+install.packages(c("dplyr","tidyr","compare"))
 ```
 
 You will probably see some error/warning messages popped up, which are usually benign. After the installation is done, try to verify it by importing those packages:
