@@ -36,7 +36,7 @@ Slack: https://join.slack.com/t/cs190i-spring21/shared_invite/zt-nw9earis-ot5icS
 | 5/12  | Counter-example Guided Synthesis  | [lec14](#)        |      | [HW3](homework/hw3/hw3.md) |     |
 | 5/17  | Combine ML with Deductive Reasoning |        |      |     |     |
 | 5/19  | Interactive Synthesis with Human in the Loop |        |      |     |     |
-| 5/24 | Deductive Synthesis                       |         |       |     |   R4  |
+| 5/24 | Deductive Synthesis                       |         |       |     |   R4, Poster (PDF)  |
 | 5/26 | Virtual Poster Session                |        |      |     | HW3 |
 | 5/31 | Memorial Day        |         |      |     |    |
 | 6/2  | Final week, no class                                 |        |      |     |  Final Report (8 pages)  |
