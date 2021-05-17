@@ -35,7 +35,7 @@ Slack: https://join.slack.com/t/cs190i-spring21/shared_invite/zt-nw9earis-ot5icS
 | 5/10 | Case II: Attack Synthesis for Smart Contracts                       |  [lec13](lectures/lecture13.pdf)       |  R4    |     |     |
 | 5/12  | Counter-example Guided Synthesis  | [lec14](#)        |      | [HW3](homework/hw3/hw3.md) |     |
 | 5/17  | Combine ML with Deductive Reasoning |        |      |     |     |
-| 5/19  | Synthesis with Refinement Types |        |      |     |     |
+| 5/19  | Interactive Synthesis with Human in the Loop |        |      |     |     |
 | 5/24 | Deductive Synthesis                       |         |       |     |   R4  |
 | 5/26 | Virtual Poster Session                |        |      |     | HW3 |
 | 5/31 | Memorial Day        |         |      |     |    |
